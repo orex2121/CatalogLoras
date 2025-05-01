@@ -13,7 +13,7 @@
 
 ![Show Text](screenshots/screenshots-1.png)
 
-####[СКАЧАТЬ ПРИЛОЖЕНИЕ](https://github.com/orex2121/CatalogLoras/releases/tag/CatalogLorasComfyUI)
+#### [СКАЧАТЬ ПРИЛОЖЕНИЕ](https://github.com/orex2121/CatalogLoras/releases/tag/CatalogLorasComfyUI)
 
 💡 Надеюсь это приложение поможет вам не запутаться в многообразии Lora и Checkpoints 💡
 ## Купить кофе разработчикам: ☕  ☕  ☕
