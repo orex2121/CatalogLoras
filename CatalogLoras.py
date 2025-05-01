@@ -29,6 +29,12 @@ class LoraImageViewer(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("LORAS")
+
+        # ✅ Устанавливаем иконку окна
+        icon_path = os.path.join(os.path.dirname(__file__), "logo_loras.ico")
+        if os.path.exists(icon_path):
+            self.setWindowIcon(QIcon(icon_path))
+
         self.resize(600, 800)
 
         self.target_size = 150
